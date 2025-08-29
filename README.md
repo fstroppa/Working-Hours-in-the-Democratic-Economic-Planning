@@ -1,0 +1,2 @@
+# Working-Hours-in-the-Democratic-Economic-Planning
+Measures human time to deliver decent living via democratic economic planning. Reports weekly hours across key sectors (food, housing, utilities, care, mobility, industry, culture, governance), under low/medium/high automation, and aggregates to a ~10-hour social workweek at fixed quality and ecological ceilings. Includes direct and indirect hours.
